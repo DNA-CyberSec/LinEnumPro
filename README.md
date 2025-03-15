@@ -1,8 +1,8 @@
 # 🔐 LinEnumPro
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/DNA-CyberSec/LinEnumPro)
-![License](https://img.shields.io/github/license/DNA-CyberSec/LinEnumPro)
 ![Contributors](https://img.shields.io/github/contributors/DNA-CyberSec/LinEnumPro)
+![License](https://img.shields.io/github/license/DNA-CyberSec/LinEnumPro)
 
 **LinEnumPro** is a professional, automated Linux enumeration script designed to help cybersecurity professionals quickly gather critical system information and identify potential privilege escalation vulnerabilities.
 
