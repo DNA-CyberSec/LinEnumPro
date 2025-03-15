@@ -1,4 +1,4 @@
-# 🔐 LinEnumPro
+# 🔐 LinEnumPro - automated Linux enumeration
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/DNA-CyberSec/LinEnumPro)
 ![Contributors](https://img.shields.io/github/contributors/DNA-CyberSec/LinEnumPro)
